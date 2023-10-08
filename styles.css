@@ -1,0 +1,84 @@
+body{
+    background-color: #EDEFEE;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    height: 140px;
+    overflow: hidden;
+}
+#image{
+    width: 100%;
+    height: auto;
+}
+ul{
+    justify-content: center;
+    background-color: black;
+    border-radius: 15px;
+}
+ul li,a{
+    list-style-type: none;
+    text-decoration-line: none;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+    padding-top: 3px;
+    
+    
+}
+ul{
+    display: flex;
+}
+.back{
+    height: 200px;
+    background-image: url(diam1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 8px;
+}
+.div1{
+    width: 33.33%;
+    height:auto;
+    background-color:bisque;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin-left: 15px;
+
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.head{
+    padding-top: 10px;
+}
+#container{
+    padding-top: 20px;
+    display: inline-flex;
+    justify-content: space-between  ;
+}
+#final{
+    font-size: 26px;
+    padding-left: 100px;
+    
+    height: 40px;
+    width: 200px;
+}
+#finalpara{
+    width: 120%;
+    background-color: darkcyan;
+    padding-left: 20px;
+    margin-right: 4px;
+    border-radius: 4px;
+    color: blue;
+    font-style: italic;
+    margin-right: 3px;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: #EDEFEE;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div1{
+    width: 33.33vh;
+    height:auto;
+    background-color: aqua;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin-left: 15px;
+
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.head{
+    padding-top: 10px;
+}
+#container{
+    display: inline-flex;
+    justify-content: space-between  ;
+}
+
+
+
